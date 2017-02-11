@@ -4,6 +4,6 @@
 #include "WPILib.h"
 
 // CAN Talon ID Configured through RoboRIO Web Interface
-const int MOTORPORT = 34;
+const int MOTORPORT = 0;
 
 #endif

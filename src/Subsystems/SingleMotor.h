@@ -15,6 +15,7 @@ public:
 	void setSpeed(double value);
 	double getVoltage();
 	double getCurrent();
+	double getSpeed();
 };
 
 #endif

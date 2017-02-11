@@ -28,3 +28,7 @@ double SingleMotor::getCurrent()
 {
 	return motor->GetOutputCurrent();
 }
+double SingleMotor::getSpeed()
+{
+	return motor->GetSpeed();
+}
